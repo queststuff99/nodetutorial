@@ -1,0 +1,1 @@
+This is async await implementation of read and write file lol. this is the first text + this is the second text. This is the easiest implementation if im right lol
